@@ -1,3 +1,3 @@
 # cas-wrgl
 
-Welcome to the NHS Central & South Genomic Laboratory Hub GitHub repository
+Welcome to the NHS Central and South Wessex Genomics Laboratory Service GitHub repository
